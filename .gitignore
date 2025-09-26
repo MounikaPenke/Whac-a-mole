@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.class
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore bin folder (compiled output)
+/bin/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
