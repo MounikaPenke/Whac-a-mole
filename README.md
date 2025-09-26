@@ -1,18 +1,27 @@
-## Getting Started
+# 🎮 Whac-A-Mole Java Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java-based **Whac-A-Mole** game with GUI and image assets, built using **Java Swing**. The project demonstrates event-driven programming, animations, and fun interactive gameplay.
 
-## Folder Structure
+## ✨ Features
+- Interactive Whac-A-Mole gameplay  
+- GUI built with Java Swing  
+- Mole and plant image assets  
+- Organized project structure (src, bin, lib)  
+- Extendable for new features  
 
-The workspace contains two folders by default, where:
+## 📂 Project Structure
+```plaintext
+javaProject/
+├── lib/
+│   └── src/          # Source code (.java files)
+├── bin/              # Compiled .class files
+├── assets/           # Game images (mole.png, plant2.png, etc.)
+├── README.md         # Project documentation
+├── .gitignore        # Git ignore rules
+```
+🛠 Requirements
+Java JDK 8 or higher
+Any Java IDE (Eclipse, IntelliJ, VSCode) or command-line setup
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+📸Demo
+https://drive.google.com/file/d/1yg8330vpEbcKdAw1vRAYjJ-imJ7HMOZe/view?usp=sharing
